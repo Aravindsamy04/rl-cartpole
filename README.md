@@ -17,7 +17,7 @@ ii) 1: Push cart to the right
 ## MONTE CARLO CONTROL ALGORITHM FOR CART POLE BALANCING
 
 ```
-#AADHEESHWAR A 212221230001
+
 import gymnasium as gym
 import numpy as np
 from itertools import count
